@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892306212144",
+    "project_id": "vinflat-66cee",
+    "storage_bucket": "vinflat-66cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892306212144:android:0e3fde4d1e02118e94f4f5",
+        "android_client_info": {
+          "package_name": "com.capstone.vinflat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892306212144-m255af7qp40ih9dh7fk1jdnijtugttr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.vinflat",
+            "certificate_hash": "1ce6e5ca957372c4a617b8140ef16f539d72b683"
+          }
+        },
+        {
+          "client_id": "892306212144-b8diikr36rgmd00dng9g1t5ab9bgtrlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABkvgnVKg7JK3v_3PjFvfVJDRIx6cAYkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892306212144-b8diikr36rgmd00dng9g1t5ab9bgtrlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
